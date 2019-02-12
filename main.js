@@ -16,7 +16,7 @@ function makeid(max) {
 
 function suckMyHairyCock() {
     if(document.getElementById("cuntdickass").value == "" ) {
-        alert("woah woah you little smelly, that zip code doesn't exist. Mind reading capabilities will be available in version 2.1!");
+        alert("Woah woah woah there, you little smelly, that zip code doesn't exist! But don't fret! Mind reading capabilities will be available in version 2.1!");
         return;
     }
 
