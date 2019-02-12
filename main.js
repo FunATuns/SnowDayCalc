@@ -37,7 +37,7 @@ function suckMyHairyCock() {
   setTimeout(function() {
     document.getElementById("cunt").style.transition = "none";
     document.getElementById("cunt").style.opacity = "1";
-    document.getElementById("cunt").innerHTML = "<p>Fuck you</p>";
+    document.getElementById("cunt").innerHTML = "<p>F u</p>";
   }, 21000);
   setTimeout(function() {
     document.getElementById("cunt").style.opacity = "0";
