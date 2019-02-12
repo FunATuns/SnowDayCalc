@@ -15,7 +15,10 @@ function makeid(max) {
   }
 
 function suckMyHairyCock() {
-
+    if(document.getElementById("cuntdickass").value == "" ) {
+        alert("woah woah you little smelly, that zip code doesn't exist. Mind reading capabilities will be available in version 2.1!");
+        return;
+    }
 
 
   document.getElementById("cunt").style.opacity = "0";
